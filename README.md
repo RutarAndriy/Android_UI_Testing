@@ -1,2 +1,2 @@
-# Android_UI_Testing
+# Android UI Testing
 Android UI testing lessons
